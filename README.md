@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-# NAMASTE!! I'm Thushara B S
+# NAMASTE !! 
+## I'm Thushara B S
 
-🎓 Computer Science & Engineering Student  
-🏫 Sahyadri College of Engineering and Management, Mangaluru  
-🌱 Currently learning **Web Development**
-💡 Passionate about building projects and improving my problem-solving skills.
+- 🎓 Computer Science & Engineering Student  
+- 🏫 Sahyadri College of Engineering and Management, Mangaluru  
+- 🌱 Currently learning **Web Development**
+- 💡 Passionate about building projects and improving my problem-solving skills.
 
 ---
 
@@ -30,14 +31,6 @@
 - Git
 - GitHub
 - VS Code
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thushara-bajimar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thushara-bajimar&layout=compact&theme=tokyonight)
 
 ---
 
