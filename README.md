@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# NAMASTE !! 
+# NAMASTE !! 🙏
 ## I'm Thushara B S
 
 - 🎓 Computer Science & Engineering Student  
@@ -36,9 +36,9 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: [Thushara's GitHub](https://github.com/thushara-bajimar)
-- LinkedIn: [Thushara B S](https://www.linkedin.com/in/thushara-b-s/)
-- LeetCode: [Thushara's LeetCode](https://leetcode.com/u/thushara-bajimar/)
+- [Thushara's GitHub](https://github.com/thushara-bajimar)
+- [LinkedIn](https://www.linkedin.com/in/thushara-b-s/)
+- [Thushara's LeetCode](https://leetcode.com/u/thushara-bajimar/)
 
 ---
 
