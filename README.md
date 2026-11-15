@@ -36,13 +36,23 @@ I'm especially interested in **backend development**, **cybersecurity**, and **A
 | :-- | :-- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js" height="40" alt="C, C++, Python, Java, JavaScript" /><br><sub>C · C++ · Python · Java · JavaScript</sub> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" height="40" alt="HTML, CSS, Tailwind CSS, Bootstrap, React, Next.js" /><br><sub>HTML · CSS · Tailwind CSS · Bootstrap · React · Next.js</sub> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" alt="Node.js, Express.js" /><br><sub>Node.js · Express.js</sub> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" alt="Node.js, Express.js" /><br><sub>Node.js · Express.js · EJS</sub> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" alt="MySQL, MongoDB" /><br><sub>MySQL · MongoDB</sub> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" alt="Git, GitHub, Visual Studio Code, Postman" /><br><sub>Git · GitHub · VS Code · Postman</sub> |
 
 <!-- To add a technology: append its id to the matching row's ?i= list (ids: https://github.com/tandpfun/skill-icons#icons-list) and add its name to the caption below it. -->
 
 ## Featured Projects
+
+### Currently Building
+
+| Project | Description | Built with |
+| :-- | :-- | :-- |
+| [NestNet](https://github.com/thushara-bajimar/NestNet) | Vacation-rental listing web app in progress. Users can browse stays and create, view, edit, and delete listings, with server-rendered pages and data stored in MongoDB. | Node.js · Express.js · MongoDB · EJS · Bootstrap |
+
+<!-- When NestNet is finished, move its row into the Projects table below and remove this subsection (or swap in your next project). -->
+
+### Projects
 
 | Project | Description | Built with |
 | :-- | :-- | :-- |
