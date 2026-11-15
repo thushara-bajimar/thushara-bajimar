@@ -25,8 +25,8 @@ I'm especially interested in **backend development**, **cybersecurity**, and **A
 <!-- Keep this list current: edit, add, or remove items as your focus changes. -->
 
 - **Backend development:** building server-side applications and APIs with Node.js and Express.js
-- **Cybersecurity fundamentals:** learning core security concepts and how applications are attacked and defended
-- **AI & Machine Learning:** building a foundation in machine learning concepts with Python
+<!-- - **Cybersecurity fundamentals:** learning core security concepts and how applications are attacked and defended
+- **AI & Machine Learning:** building a foundation in machine learning concepts with Python -->
 - **Data Structures & Algorithms:** solving problems on LeetCode and CodeChef
 - **Practical projects:** turning what I learn into small, working software
 
@@ -47,7 +47,9 @@ I'm especially interested in **backend development**, **cybersecurity**, and **A
 | Project | Description | Built with |
 | :-- | :-- | :-- |
 | [Simon Says Memory Game](https://github.com/thushara-bajimar/Simon-Says--Online-Game) | Browser-based memory game. Each level adds a random colour to the sequence, which the player must repeat in order; tracks the score and the highest score for the session. | HTML · CSS · JavaScript |
-| [Spotify Clone (UI)](https://github.com/thushara-bajimar/CSS-Projects/tree/main/Spotify%20Clone) | Static, Spotify-inspired music player interface built to practise CSS layout: sidebar navigation, library prompts, browsing cards, and a fixed player bar. Frontend only, with no audio playback or backend. | HTML · CSS |
+| [Vaultery](https://github.com/thushara-bajimar/vaultery) | Command-line personal vault with account creation and login. Lets a user create, view, search, modify, and delete notes, stored in local text files. | C++ |
+| [CSS Projects](https://github.com/thushara-bajimar/CSS-Projects) | Collection of CSS practice projects. Includes a [Spotify Clone (UI)](https://github.com/thushara-bajimar/CSS-Projects/tree/main/Spotify%20Clone): a static, Spotify-inspired music player interface with sidebar navigation, browsing cards, and a fixed player bar. Frontend only, with no audio playback or backend. | HTML · CSS |
+| [CSS Mini-Projects](https://github.com/thushara-bajimar/CSS-Mini-Project) | Small CSS experiments. Includes a [Sidebar Demo](https://github.com/thushara-bajimar/CSS-Mini-Project/tree/main/Sidebar%20Demo): a full-screen landing page with a slide-out navigation menu that works with pure CSS, without JavaScript. | HTML · CSS |
 
 <!--
 To add a project, copy this row into the table above:
