@@ -6,7 +6,7 @@
 
 Learning by building — one project, one problem at a time.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1600&color=2F81F7&center=true&vCenter=true&width=480&height=28&lines=Backend+Development;Cybersecurity;Artificial+Intelligence+%26+Machine+Learning;Data+Structures+%26+Algorithms" alt="Interests: Backend Development, Cybersecurity, Artificial Intelligence & Machine Learning, Data Structures & Algorithms" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1600&color=2F81F7&center=true&vCenter=true&width=480&height=28&lines=Backend+Development;Cybersecurity;Artificial+Intelligence+%26+Machine+Learning;Data+Structures+%26+Algorithms" alt="Interests: Backend Development, Cybersecurity, Artificial Intelligence, Data Structures & Algorithms" />
 
 [GitHub](https://github.com/thushara-bajimar) · [LinkedIn](https://www.linkedin.com/in/thushara-b-s/) · [LeetCode](https://leetcode.com/u/thushara-bajimar/) · [CodeChef](https://www.codechef.com/users/thusharacs25)
 
@@ -16,9 +16,9 @@ Learning by building — one project, one problem at a time.
 
 ## About Me
 
-I'm a Computer Science Engineering student at Sahyadri College of Engineering and Management, Mangaluru. I learn best by building, so most of what I study ends up as a small project — and I practise problem solving regularly on LeetCode and CodeChef to keep my fundamentals sharp.
+I'm a Computer Science Engineering student at Sahyadri College of Engineering and Management, Mangaluru. I learn best by building, so most of what I study ends up as a small project — and I practise problem solving regularly on LeetCode or CodeChef to keep my fundamentals sharp.
 
-I'm especially interested in **backend development**, **cybersecurity**, and **AI/ML**. I'm still early in each of these, and my aim is to understand the concepts properly and then apply them in practical projects.
+I'm especially interested in **backend development**, **cybersecurity**, and **AI**. I'm still early in each of these, and my aim is to understand the concepts properly and then apply them in practical projects.
 
 ## Current Focus
 
@@ -30,7 +30,7 @@ I'm especially interested in **backend development**, **cybersecurity**, and **A
 - **Data Structures & Algorithms:** solving problems on LeetCode and CodeChef
 - **Practical projects:** turning what I learn into small, working software
 
-## Tech Stack
+## Tech Stack (Known/Learning)
 
 | Category | Technologies |
 | :-- | :-- |
