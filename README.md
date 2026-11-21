@@ -6,7 +6,7 @@
 
 Learning by building — one project, one problem at a time.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1600&color=2F81F7&center=true&vCenter=true&width=480&height=28&lines=Backend+Development;Cybersecurity;Artificial+Intelligence+%26+Machine+Learning;Data+Structures+%26+Algorithms" alt="Interests: Backend Development, Cybersecurity, Artificial Intelligence, Data Structures & Algorithms" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1600&color=2F81F7&center=true&vCenter=true&width=480&height=28&lines=Backend+Development;Cybersecurity;Artificial+Intelligence;Data+Structures+%26+Algorithms" alt="Interests: Backend Development, Cybersecurity, Artificial Intelligence, Data Structures & Algorithms" />
 
 [GitHub](https://github.com/thushara-bajimar) · [LinkedIn](https://www.linkedin.com/in/thushara-b-s/) · [LeetCode](https://leetcode.com/u/thushara-bajimar/) · [CodeChef](https://www.codechef.com/users/thusharacs25)
 
