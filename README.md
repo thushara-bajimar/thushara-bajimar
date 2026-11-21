@@ -6,7 +6,7 @@
 
 Learning by building — one project, one problem at a time.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1600&color=2F81F7&center=true&vCenter=true&width=480&height=28&lines=Backend+Development;Cybersecurity;Artificial+Intelligence;Data+Structures+%26+Algorithms" alt="Interests: Backend Development, Cybersecurity, Artificial Intelligence, Data Structures & Algorithms" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1600&color=2F81F7&center=true&vCenter=true&width=480&height=28&lines=Full-Stack+Development;Backend+Development;Cybersecurity;Artificial+Intelligence;Data+Structures+%26+Algorithms" alt="Interests: Full-Stack Development, Backend Development, Cybersecurity, Artificial Intelligence, Data Structures & Algorithms" />
 
 [GitHub](https://github.com/thushara-bajimar) · [LinkedIn](https://www.linkedin.com/in/thushara-b-s/) · [LeetCode](https://leetcode.com/u/thushara-bajimar/) · [CodeChef](https://www.codechef.com/users/thusharacs25)
 
@@ -18,12 +18,13 @@ Learning by building — one project, one problem at a time.
 
 I'm a Computer Science Engineering student at Sahyadri College of Engineering and Management, Mangaluru. I learn best by building, so most of what I study ends up as a small project — and I practise problem solving regularly on LeetCode or CodeChef to keep my fundamentals sharp.
 
-I'm especially interested in **backend development**, **cybersecurity**, and **AI**. I'm still early in each of these, and my aim is to understand the concepts properly and then apply them in practical projects.
+I'm especially interested in **full-stack development**, **backend development**, **cybersecurity**, and **AI**. I'm still early in each of these, and my aim is to understand the concepts properly and then apply them in practical projects.
 
 ## Current Focus
 
 <!-- Keep this list current: edit, add, or remove items as your focus changes. -->
 
+- **Full-stack development:** building complete web applications, from the frontend to the server and database
 - **Backend development:** building server-side applications and APIs with Node.js and Express.js
 <!-- - **Cybersecurity fundamentals:** learning core security concepts and how applications are attacked and defended
 - **AI & Machine Learning:** building a foundation in machine learning concepts with Python -->
